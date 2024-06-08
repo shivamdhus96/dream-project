@@ -2,7 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
-
+.body{
+    background-color:#F3F3F3;
+}
 .headerimg {
     height: 35px;
     margin-left: 30px;
@@ -11,9 +13,7 @@
 }
 .headt{
     font-size: 20px;
-}
-.headt{
-    font-size: 20px;
+
 }
 
 .navbar {
@@ -23,7 +23,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color:#ffe6e6;
+    background-color: #ffcccc;
 }
 
 .navbar ul li {
@@ -83,7 +83,6 @@
 }
 
 .container {
-    height: 1000px;
     position: relative;
     width: 100%;
     display: grid;
@@ -110,4 +109,98 @@
     margin-left: 2px;
     margin-right: 2px;
 }
-
+.container1{
+    display: flex;
+    justify-content: center;
+    min-height: 400px;
+}
+.profile-img1{
+    height: 370px;
+    width: 335px;
+    background-color: white;
+    margin:50px;
+    border-radius:8px 8px 8px 8px ;
+    border: 1px solid black;
+    box-shadow:0 0 10px 5px rgb(177, 174, 174);
+}
+.mens1{
+    height:350px;
+    width: 300px;
+    margin: 15px 15px 15px 15px;
+    
+}
+.profile-img2{
+    height: 370px;
+    width: 335px;
+    background-color: white;
+    margin:50px;
+    border-radius:8px 8px 8px 8px ;
+    border: 1px solid black;
+    box-shadow:0 0 10px 5px rgb(177, 174, 174);
+}
+.women1{
+    height:350px;
+    width: 280px;
+    margin: 15px 15px 15px 15px;
+}
+.profile-img3{
+    height: 370px;
+    width: 335px;
+    background-color: white;
+    margin:50px;
+    border-radius:8px 8px 8px 8px ;
+    border: 1px solid black;
+    box-shadow:0 0 10px 5px rgb(177, 174, 174);
+}
+.kids1{
+    height: 340px;
+    width: 290px;
+    margin: 15px 15px 15px 15px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    min-height: 400px;
+}
+.profile-img4{
+    height: 370px;
+    width: 335px;
+    background-color: white;
+    margin:50px;
+    border-radius:8px 8px 8px 8px ;
+    border: 1px solid black;
+    box-shadow:0 0 10px 5px rgb(177, 174, 174);
+}
+.phone1{
+    height: 340px;
+    width: 290px;
+    margin: 15px 15px 15px 15px;
+}
+.profile-img5{
+    height: 370px;
+    width: 335px;
+    background-color: white;
+    margin:50px;
+    border-radius:8px 8px 8px 8px ;
+    border: 1px solid black;
+    box-shadow:0 0 10px 5px rgb(177, 174, 174);
+}
+.beauty1{
+    height: 340px;
+    width: 290px;
+    margin: 15px 15px 15px 15px;
+}
+.profile-img6{
+    height: 370px;
+    width: 335px;
+    background-color: white;
+    margin:50px;
+    border-radius:8px 8px 8px 8px ;
+    border: 1px solid black;
+    box-shadow:0 0 10px 5px rgb(177, 174, 174);
+}
+.food1{
+    height:340px;
+    width:300px;
+    margin: 15px 15px 15px 15px;
+}
