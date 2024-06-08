@@ -115,23 +115,28 @@
     min-height: 400px;
 }
 .profile-img1{
-    height: 370px;
-    width: 335px;
+    height: 440px;
+    width: 350px;
     background-color: white;
     margin:50px;
     border-radius:8px 8px 8px 8px ;
     border: 1px solid black;
     box-shadow:0 0 10px 5px rgb(177, 174, 174);
 }
+.profile-img-content{
+    margin-left: 40px;
+    padding-top: px;
+    font-size: x-large;
+}
 .mens1{
     height:350px;
     width: 300px;
     margin: 15px 15px 15px 15px;
-    
+    box-shadow:0 0 4px 4px rgb(177, 174, 174);
 }
 .profile-img2{
-    height: 370px;
-    width: 335px;
+    height: 440px;
+    width: 350px;
     background-color: white;
     margin:50px;
     border-radius:8px 8px 8px 8px ;
@@ -142,10 +147,11 @@
     height:350px;
     width: 280px;
     margin: 15px 15px 15px 15px;
+    box-shadow:0 0 4px 4px rgb(177, 174, 174);
 }
 .profile-img3{
-    height: 370px;
-    width: 335px;
+    height: 440px;
+    width: 350px;
     background-color: white;
     margin:50px;
     border-radius:8px 8px 8px 8px ;
@@ -156,6 +162,7 @@
     height: 340px;
     width: 290px;
     margin: 15px 15px 15px 15px;
+    box-shadow:0 0 4px 4px rgb(177, 174, 174);
 }
 .container2{
     display: flex;
@@ -163,8 +170,8 @@
     min-height: 400px;
 }
 .profile-img4{
-    height: 370px;
-    width: 335px;
+    height: 440px;
+    width: 350px;
     background-color: white;
     margin:50px;
     border-radius:8px 8px 8px 8px ;
@@ -175,10 +182,11 @@
     height: 340px;
     width: 290px;
     margin: 15px 15px 15px 15px;
+    box-shadow:0 0 4px 4px rgb(177, 174, 174);
 }
 .profile-img5{
-    height: 370px;
-    width: 335px;
+    height: 440px;
+    width: 350px;
     background-color: white;
     margin:50px;
     border-radius:8px 8px 8px 8px ;
@@ -189,10 +197,11 @@
     height: 340px;
     width: 290px;
     margin: 15px 15px 15px 15px;
+    box-shadow:0 0 4px 4px rgb(177, 174, 174);
 }
 .profile-img6{
-    height: 370px;
-    width: 335px;
+    height: 440px;
+    width: 350px;
     background-color: white;
     margin:50px;
     border-radius:8px 8px 8px 8px ;
@@ -203,4 +212,5 @@
     height:340px;
     width:300px;
     margin: 15px 15px 15px 15px;
+    box-shadow:0 0 4px 4px rgb(177, 174, 174);
 }
