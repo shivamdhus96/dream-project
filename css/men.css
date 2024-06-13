@@ -2,13 +2,12 @@
     margin: 0px;
     padding: 0px;
 }
+
 .headerimg{
     height: 35px;
     margin-left:30px;
     align-self:normal;
-    inline-size: 60px;
-  
-   
+    inline-size: 60px; 
 }
 .headt{
     font-size: 20px;
@@ -20,7 +19,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color:#ffcccc;
+    background-color: #ffb3b3;
 }
 .navbar ul li {
     list-style: none;
