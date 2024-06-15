@@ -149,12 +149,34 @@
 }
 .women-1{
     height: 200px;
-    margin-left: 25px;
+    margin-left: 30px;
     margin-top: 15px;
-    margin-right: 25px;
+    margin-right: 30px;
     margin-bottom: 10;
 }
- .container1{ 
+.box3-kids{
+    display: flex;
+    min-height: 220px;
+    height: 110px;
+    width: 1215px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    background-color: white;
+    border-radius: 8px 8px 8px 8px;
+    box-shadow: 0 0 10px 5px rgb(177, 174, 174);
+}
+.kids-1{
+    height: 200px;
+    margin-left:30px;
+    margin-top: 15px;
+    margin-right:30px;
+    margin-bottom: 10;
+}
+
+
+.container1{ 
     display: flex;
     justify-content: center;
     min-height: 400px;
@@ -252,4 +274,4 @@
     width:300px;
     margin: 15px 15px 15px 15px;
     box-shadow:0 0 2px 2px rgb(177, 174, 174);
-} 
+}  
