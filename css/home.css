@@ -9,6 +9,7 @@
     align-self: normal;
     inline-size: 60px;
     box-shadow: 0 0 2px 2px rgb(177, 174, 174);
+    
 }
 
 .headt {
@@ -58,7 +59,7 @@
     padding-left: 15px;
 }
 
-.prifile {
+.profile {
     height: 30px;
     padding-left: 35px;
 }
