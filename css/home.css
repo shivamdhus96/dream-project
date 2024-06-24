@@ -9,7 +9,6 @@
     align-self: normal;
     inline-size: 60px;
     box-shadow: 0 0 2px 2px rgb(177, 174, 174);
-    
 }
 
 .headt {
@@ -373,4 +372,4 @@
 }
 .food-1:hover{
     box-shadow:0 0 10px 5px  #b3ffff;
-}
+} 
