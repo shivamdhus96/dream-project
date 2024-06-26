@@ -234,7 +234,35 @@
     margin: 15px 15px 15px 15px;
     box-shadow:0 0 2px 2px rgb(177, 174, 174);
 }   
-.box1-men {
+.home-back-image{
+    background-image: url(home-bg.jpg);
+    height: 635px;
+    width: 1270px;
+    color: #f6f6f6;
+    font-size:50px;
+    padding-top: 100px;
+}
+.content-home-back-image{
+    margin-left: 120px;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .box1-men {
     display: flex;
     min-height: 220px;
     height: 110px;
@@ -372,4 +400,4 @@
 }
 .food-1:hover{
     box-shadow:0 0 10px 5px  #b3ffff;
-} 
+}  */
