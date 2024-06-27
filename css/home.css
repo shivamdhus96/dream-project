@@ -238,16 +238,19 @@
     background-image: url(home-bg.jpg);
     height: 700px;
     width: 1270px;
-    color: #f6f6f6;
-    font-size:50px;
-    padding-top: 100px;
+    color:papayawhip;
+    font-size:45px;
+    padding-top: 90px;
 }
 .content-home-back-image{
-    margin-left: 120px;
+    margin-left: 85px;
    
 }
-
-
+.content-home-back-image-i{
+    font-size:35px;
+    margin-left: 25px;
+    color:rgb(30, 53, 65);
+}
 
 
 
