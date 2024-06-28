@@ -237,11 +237,15 @@
 .home-back-image{
     background-image: url(home-bg.jpg);
     height: 700px;
-    width: 1270px;
+    width: 1250px;
     color:papayawhip;
     font-size:45px;
     padding-top: 90px;
-}
+    border-radius:  20px 20px 20px 20px ;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-right:10px;
+} 
 .content-home-back-image{
     margin-left: 85px;
    
@@ -251,21 +255,7 @@
     margin-left: 25px;
     color:rgb(30, 53, 65);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .box1-men {
+ .box1-men {
     display: flex;
     min-height: 220px;
     height: 110px;
@@ -403,4 +393,4 @@
 }
 .food-1:hover{
     box-shadow:0 0 10px 5px  #b3ffff;
-}  */
+} 
